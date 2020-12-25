@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dolunaycraft.com	TRUE	/	FALSE	1999999999	__cfduid	db9d3b60a93c17ba931dee686d8382e5d1608894386
+www.dolunaycraft.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.dolunaycraft.com	TRUE	/	FALSE	1999999999	PHPSESSID	gdjv1e1dv3s61mge2k74bfljjn
+.hizliresim.com	TRUE	/	FALSE	1999999999	__cfduid	d46d8c77d38fc704e06046ba9d528b4581608894394
+i.hizliresim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.dolunaycraft.com	TRUE	/	FALSE	1999999999	newsID	2
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d196550f5b461397e0dddc71b95cd73e01608894418
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
